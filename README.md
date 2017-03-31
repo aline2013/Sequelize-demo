@@ -1,0 +1,2 @@
+# Sequelize-demo
+learn Sequelize
