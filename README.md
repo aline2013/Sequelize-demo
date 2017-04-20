@@ -11,6 +11,7 @@ $ npm install --save
 
 #### 本文例子
 本文主要以渲染swig模板，实现简单的博客
+```
 .
 ├── README.md 文档详解
 ├── app.js 文件执行入口
@@ -27,6 +28,7 @@ $ npm install --save
     ├── list.html
     ├── new.html
     └── show.htmlß
+```
 
 #### 步骤：
 ```json
