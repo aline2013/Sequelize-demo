@@ -5,7 +5,7 @@ Sequelize是Node.js和io.js.基于 promise 的 ORM 框架，它支持 PostgreSQL
 首先, 安装
 ```json
 $ npm install sequelize --save
-$ npm install --save
+$ npm install mysql --save
 ```
 ##### 了解sequellize用法：[sequelize中文文档](https://itbilu.com/nodejs/npm/VkYIaRPz-.html#induction)
 
